@@ -1,6 +1,6 @@
-(function(window, angular) {
+(function(window, angular,undefined) {
     'use strict';
-    angular.module()
+    angular.module('ion-emptying-button')
         .directive('emptyingButton', ionEmptyingButton)
 
     function ionEmptyingButton($timeout) {
