@@ -27,9 +27,6 @@ Then add `ion-emptying-button` as a dependency for your app:
 angular.module('myApp', [require('ion-emptying-button')]);
 ```
 
-```html
-<script src="lib/angular-pinyin-translate/dist/angular-pinyin-translate.js"></script>
-```
 - bower
 
 ```shell
