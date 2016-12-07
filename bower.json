@@ -1,0 +1,20 @@
+{
+  "name": "ion-emptying-button",
+  "authors": [
+    "https://github.com/jarden-liu"
+  ],
+  "description": "A plugin of ionic framework for emptying input model and value.",
+  "main": "./ion-emptying-button.js",
+  "keywords": [
+    "empty",
+    "clean",
+    "input",
+    "ionic",
+    "angular",
+    "plugin",
+    "button",
+    "delete"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jarden-liu"
+}
