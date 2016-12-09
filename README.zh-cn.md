@@ -5,6 +5,9 @@
 ## 语言
 其他与语言版本: [English](https://github.com/jarden-liu/ion-emptying-button/blob/master/README.md) / [中文](https://github.com/jarden-liu/ion-emptying-button/blob/master/README.zh-cn.md)
 
+## 示例
+![示例](https://raw.githubusercontent.com/jarden-liu/ion-emptying-button/master/img/demo-zhcn.gif)
+
 ## 目录
 - [安装](#安装)
 - [用法](#用法)
@@ -62,9 +65,6 @@ angular.module('myApp', ['ion-emptying-button']);
 <input type="text" ng-model="vm.date.name" emptying-button eb-color="red" eb-right="4px" eb-font-size="15px" eb-icon="ion-android-close"/>
 ```
 
-
-## 示例
-示例即将到来
 
 ## 许可证
 The MIT License
