@@ -6,6 +6,9 @@ of ionic framework for emptying input model and value.
 ## Language
 Read this in other languages: [English](https://github.com/jarden-liu/ion-emptying-button/blob/master/README.md) / [中文](https://github.com/jarden-liu/ion-emptying-button/blob/master/README.zh-cn.md)
 
+## Demo
+![demo](https://raw.githubusercontent.com/jarden-liu/ion-emptying-button/master/img/demo.gif)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -63,8 +66,6 @@ Add an  attr named 'emptying-button' to your input tag, and then it will automat
 
 
 
-## Demo
-demo is coming soon
 ## License
 
 The MIT License
